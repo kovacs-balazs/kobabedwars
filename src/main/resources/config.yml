@@ -1,0 +1,6 @@
+scoreboard:
+  team: "%prefix% &f%display_name%&7: &r%status% &7%you%"
+  team_status:
+    has_bed: "&a✔️"
+    alive: "&a%count%"
+    died: "&c❌"

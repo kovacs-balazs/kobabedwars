@@ -1,0 +1,12 @@
+name: "Template"
+display_name: "&4&lTemplate"
+world: "world"
+
+teams:
+  count: 2
+  size: 5
+
+minY: -5
+maxY: 50
+
+spawn_block_protection: 4

@@ -1,0 +1,24 @@
+name: "Template"
+display_name: "&4&lTemplate"
+world: "world"
+
+lobby: "0, 100, 0, 0, 0"
+death: "0, 100, 0, 0, 0"
+
+teams:
+  size: 5
+  red:
+    prefix:
+    display_name: "Red"
+    color: "&c"
+    spawn: "0, 100, 0, 0 0"
+    bed: "10, 100, 0"
+  blue:
+    spawn: "0, 100, 0, 0 0"
+    bed: "10, 100, 0"
+
+build_limit:
+  min: -5
+  max: 50
+
+spawn_block_protection: 4

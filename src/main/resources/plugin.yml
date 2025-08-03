@@ -1,0 +1,10 @@
+name: KobaBedwars
+version: '1.0.0'
+main: me.koba1.kobabedwars.Main
+api-version: '1.21'
+authors: [ koba1 ]
+depend:
+  - ASPaperPlugin
+
+commands:
+  kobabedwarscreate:
